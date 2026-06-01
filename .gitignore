@@ -1,0 +1,27 @@
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Dependencies, if Composer is added later
+vendor/
+
+# Local temporary/cache files
+tmp/
+cache/
+
+# Local database dumps
+*.sql
+*.sqlite
+*.db
